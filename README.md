@@ -1,3 +1,4 @@
-# My Awesome Book
+# ThinkTank项目简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+情报信息库，封装数据大脑和大数据分析API，提供多维度查询，关联分析，追踪溯源等功能。
+
